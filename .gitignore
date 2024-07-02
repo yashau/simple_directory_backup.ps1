@@ -1,0 +1,5 @@
+.env
+*.log
+*.exe
+*.conf
+*.7z
