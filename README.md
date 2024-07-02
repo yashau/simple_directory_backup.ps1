@@ -16,7 +16,7 @@ This script leverages the following open-source projects:
 - Creates a Volume Shadow Copy of the directory before compression
 - Utilizes [ZStandard](https://github.com/facebook/zstd) at Level 1 for an optimal balance of compression speed and storage efficiency
 - Uploads to any S3-compatible storage provider
-- Safe for use with Windows Task Scheduler™ thanks to robust error-checking
+- Windows Task Scheduler Safe™ thanks to robust error-checking
 - Comprehensive logging to file and alerting via Telegram
 - dotenv configuration management
 
